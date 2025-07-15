@@ -1,5 +1,3 @@
-# App_Bancario_TypeScript
-
 # 💰 Dio Bank
 
 Desenvolvido por [Nathally Souza](https://github.com/nathyts)

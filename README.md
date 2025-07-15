@@ -1,6 +1,6 @@
 # 💰 Dio Bank
 
-Desenvolvido por [Nathally Souza](https://github.com/nathyts)
+Um desafio proposto por [Nathally Souza](https://github.com/nathyts)
 
 O **Dio Bank** é um projeto simples e didático desenvolvido com **TypeScript**, com o objetivo de praticar os fundamentos da programação orientada a objetos (POO), como encapsulamento, herança, polimorfismo e controle de acesso a atributos e métodos.
 
@@ -36,10 +36,7 @@ Todos os atributos das contas são privados e protegidos com modificadores de ac
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/nathyts/dio-bank.git
-
-# 2. Acesse a pasta do projeto
-cd dio-bank
+git clone https://github.com/PedroGabriiel/App_Bancario_TypeScript.git
 
 # 3. Abra o projeto no VS Code
 code .
